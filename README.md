@@ -1,6 +1,6 @@
-    # Syedna Taher Saifuddin Memorial Foundation (STSMF) - Student Portal
+# Syedna Taher Saifuddin Memorial Foundation (STSMF) - Student Portal
 
-![STSMF Logo](images/stsmflogo.png)
+![STSMF Logo](public/images/stsmflogo.png)
 
 ## 🌟 Project Overview
 A web application developed as a token of gratitude to STSMF for their financial assistance in my education. This portal streamlines the academic result submission process for students and provides an efficient review system for administrators.
